@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources >
+  <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+    <item name="android:windowNoTitle">false</item>
+    <item name="android:windowActionBar">true</item>
+   <item name="android:textColor">#668cff</item>
+   <item name="android:textColorPrimary">#668cff</item>
+  </style>
+</resources>
+
+<!--Theme.Black.NoTitleBar.Fullscreen-->

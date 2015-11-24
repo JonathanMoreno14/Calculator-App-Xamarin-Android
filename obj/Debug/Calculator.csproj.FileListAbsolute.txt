@@ -1,0 +1,17 @@
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\bin\Debug\Calculator.Calculator.apk
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\bin\Debug\Calculator.Calculator-Signed.apk
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\android\bin\Calculator.Calculator.apk
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\res\layout\main.xml
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\res\values\strings.xml
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\res\drawable\icon.png
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\res\values\styles.xml
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\res\drawable\colorcursor.xml
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\res\values\dimens.xml
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\res\values\colors.xml
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\R.cs.flag
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\uploadflags.txt
+C:\Users\Jonathan\Desktop\MCSD_training\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
