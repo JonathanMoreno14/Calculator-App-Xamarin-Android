@@ -36,3 +36,15 @@ You must download [Xamarin](https://xamarin.com/download) for your machine in or
 ####Android Emulator
 
 Similar to Andriod Studio and Eclipse, Xamarin has a version of an [Android Emulator](https://xamarin.com/android-player) that you can utilize for your development. 
+
+
+
+
+##Addendum
+####Computations
+Computations for this basic calculator application are simplistic that they can be done with other object-oriented programming languages.
+
+The computation consist of the user input in a form of a string the input is then converted to a specific (Data Type)[] most if not all object-oriented programming languages have these specific data types **double**, **int**, **long** ...etc each programming language has special methods for converting integers and strings ; vice versa. Once the strings have been been converted to the specific data type then you can compute the numbers and finally depending on the result you can converted back to string 
+
+
+####C Sharp 
