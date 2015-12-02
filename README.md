@@ -44,12 +44,38 @@ Similar to Andriod Studio and Eclipse, Xamarin has a version of an [Android Emul
 ####Computations
 Computations for this basic calculator application are simplistic that they can be done with other object-oriented programming languages.
 
-The computation consist of the user input in a form of a string the input is then converted to a specific [Data Type](http://searchsoa.techtarget.com/definition/data-type) most if not all object-oriented programming languages have these specific data types **double**, **int**, **long** ...etc each programming language has special methods for converting integers and strings ; vice versa. Once the strings have been been converted to the specific data type then you can compute the numbers and finally depending on the result you can converted back to string 
+The computation consist of the user input in a form of a string the input is then converted to a specific [Data Type](http://searchsoa.techtarget.com/definition/data-type) most if not all object-oriented programming languages have these specific data types **double**, **int**, **long** ...etc each programming language has special methods for converting integers and strings ; vice versa. Once the strings have been converted to the specific data type then you can compute the numbers and finally depending on the result you can converted back to string 
 
 
 ####C Sharp 
 ```c#
+double a, b, c;
 
+ protected  void addBtn()
+        {    
+
+            addButton.Click += delegate  //Delegates the button click for the addButton
+            {
+                try
+                {
+                  
+                  a = double.Parse(firstValue.Text);   //converts string from edittext firstValue into double
+                  b = double.Parse(secondValue.Text);   //converts string from edittext secondValue into double
+                  c = a + b;  //computes both doubles 
+                  result.Text = c.ToString();  
+                  //Then converts the double back into a string using method ToString(); it is displayed in the results edittext
+                   
+                  
+                }
+                catch (Exception ex)  //This method catches an exception and the error results are displayed in the edittext
+                {
+                    
+
+                    firstValue.Text = "Input Number(s)";
+                    secondValue.Text = "Input Number(s)";
+                    result.Text = "Invalid Operation";
+                }
+            };
 
 
 ```
